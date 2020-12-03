@@ -26,7 +26,14 @@ It will also initialize a local `git` repository in the project.
 
 ## Contributing
 
-If you'd like to make a contribution, fork this project and make a pull request with your new features! Here are some ideas for how to extend this project:
+If you'd like to make a contribution, 
+
+- fork and clone this project;
+- run `npm install` to install project dependencies;
+- write and test your code; then
+- make a pull request with your new feature!
+
+Here are some ideas for how to extend this project:
 
 - Use file templates instead of strings?
 - Use `inquirer`, `chalk`, `figlet`, etc for nicer terminal output?
