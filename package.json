@@ -14,12 +14,17 @@
     "url": "git+https://github.com/ihollander/js-generator.git"
   },
   "bin": {
-    "vanilla-js-generator": "./index.js"
+    "vanilla-js-generator": "index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Ian Hollander",
+  "license": "MIT",
   "dependencies": {
     "simple-git": "^2.24.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/ihollander/js-generator/issues"
+  },
+  "homepage": "https://github.com/ihollander/js-generator#readme",
+  "devDependencies": {}
 }
