@@ -32,3 +32,5 @@ If you'd like to make a contribution, fork this project and make a pull request 
 - Use `inquirer`, `chalk`, `figlet`, etc for nicer terminal output?
 - Create a remote repo on Github & push up the code?
 - Whatever your heart desires!
+
+If you're curious how this was put together, check out the [lecture readme](LECTURE.md) or [video](https://youtu.be/1_wyb2Wh4m0).
