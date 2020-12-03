@@ -1,0 +1,25 @@
+{
+  "name": "@ihollander/js-generator",
+  "version": "1.0.0",
+  "description": "A Node CLI for generating vanilla JS projects",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihollander/js-generator.git"
+  },
+  "bin": {
+    "vanilla-js-generator": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-git": "^2.24.0"
+  }
+}
